@@ -1,1 +1,1 @@
-clock: python telebot_appV1.py
+clock: python telebot_app.py
