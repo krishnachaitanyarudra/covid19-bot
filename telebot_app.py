@@ -18,9 +18,11 @@ scheduler=BackgroundScheduler()
 scheduler.start()
 
 help="""
-Welcome to Iare COVID-19 Bot
+Welcome to IARE COVID-19 Bot
+
 /start : to start converstion
 /statename@data : to get data of that state 
+NOTE : Telanagana is spelled as Telengana in mohfw.gov.in
 e.g : /Telengana@data 
 /total_cases : for total caese 
 /update@freq :for automated updates daily
