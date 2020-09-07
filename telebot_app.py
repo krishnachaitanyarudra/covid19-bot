@@ -22,14 +22,16 @@ Welcome to IARE COVID-19 Bot
 
 /start : to start converstion
 /statename@data : to get data of that state 
-NOTE : Telanagana is spelled as Telengana in mohfw.gov.in
+
+NOTE : Telangana is spelled as Telengana in mohfw.gov.in
+
 e.g : /Telengana@data 
 /total_cases : for total caese 
 /update@freq :for automated updates daily
 e.g
-/update@1D : Daily 1 update
+/update@1D : Update only ONCE Per DAY
 
-/update@12H : update every 12 H
+/update@12H : update every 12Hours
 
 /update@5M : update every 5Min
 
